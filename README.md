@@ -1,1 +1,1 @@
-# CMS-Project
+# Canteen-Management
